@@ -1,7 +1,6 @@
 # OrbitSim
 
 OrbitSim is a Python project that simulates the motion of a satellite orbiting a central body using Newtonian gravity.
-
 This project helped me understand the relationship between acceleration, velocity, and position in orbital motion.
 
 ## How to run
